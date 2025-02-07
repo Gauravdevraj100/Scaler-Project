@@ -1,0 +1,9 @@
+/venv
+__pycache__/
+*.DS_Store
+./venv
+.env
+.env.local
+./movie_streaming/venv
+/movie_streaming/venv/
+venv
